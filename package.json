@@ -18,6 +18,7 @@
     "test": "jest",
     "start": "node app.js",
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "devDependencies": {
