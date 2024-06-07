@@ -1,4 +1,4 @@
-//Principal
+Object.defineProperty(exports, "__esModule", { value: true });
 
 import { addForm, addField, removeForm, removeField } from './formManager.js';
 import { saveForm, addData, loadSavedForms, loadFormFields } from './dataManager.js';
