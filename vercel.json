@@ -1,1 +1,9 @@
-{ [{ "source": "/(.*)", "destination": "/" }] }
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/server.js"
+    }
+  ]
+}
