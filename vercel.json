@@ -2,7 +2,7 @@
  "version": 2,
  "builds": [
   {
-   "src": "views/já/mais.js",
+   "src": "views/js/main.js",
    "use": "@vercel/node",
    "config": { "includeFiles": ["dist/**"] }
   }
